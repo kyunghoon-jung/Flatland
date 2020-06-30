@@ -1,0 +1,6 @@
+{
+  "challenge_id": "neurips-2020-flatland-challenge",
+  "grader_id": "neurips-2020-flatland-challenge",
+  "tags": ["RL"],
+  "debug": true
+}
